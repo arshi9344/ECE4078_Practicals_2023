@@ -15,4 +15,3 @@ services:
       --ip=0.0.0.0 \
       --allow-root \
       --port=9000"
-    
